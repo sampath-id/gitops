@@ -1,7 +1,7 @@
 replicaCount: 1
 fullnameOverride: auth-service
 image:
-  repository: 516209541629.dkr.ecr.us-east-1.amazonaws.com/auth-service
+  repository: 236726878226.dkr.ecr.us-east-1.amazonaws.com/auth-service
   tag: sha-570c9ba
   pullPolicy: Always
 service:
